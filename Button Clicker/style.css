@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif
+}
+.navbar{
+    background-color: grey;
+    height: 100px;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.secondline{
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.thirdline{
+    width: 700px;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+    border: 1px solid black;
+    display: flex;
+    flex: 4;
+}
+.secondbox{
+    padding: 20px;
+    width: 700px;
+    border: 1px solid black;
+    display: flex;
+}
+.fourthbox{
+    width: 300px;
+    border: 1px solid black;
+    padding: 20px;
+}
+.ninjutsu{
+    flex:1;
+}
